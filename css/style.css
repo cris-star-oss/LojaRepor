@@ -19,3 +19,7 @@
 body{
     font-family: 'Bebas Neue', sans-serif;
 }
+
+.banner{
+    background: radial-gradient(var(--cor-padrao-hover), var(--cor-padrao));
+}
