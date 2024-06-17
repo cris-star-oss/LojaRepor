@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 :root{
     --cor-padrao:#8C8281;
     --cor-padrao-hover:#F2A74B;
@@ -17,7 +16,7 @@
     --cor-fonte-corpo-leve:#949191;
 }
 body{
-    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .banner{
