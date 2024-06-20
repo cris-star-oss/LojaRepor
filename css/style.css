@@ -312,3 +312,26 @@ ul{
         cursor: pointer;
     }
 }
+
+@media only screen and (max-width:600px){
+
+    .linha{
+        text-align: center;
+    }
+
+    .col-2, .col-3, .col-4{
+        flex-basis: 100%;
+    }
+
+    .col-2 h1{
+        font-size: 27px;
+    }
+
+    .rodape-col-3, .rodape-col-4{
+        text-align: center;
+    }
+
+    .col-4 p{
+        font-size: 24px;
+    }
+}
